@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LoadingApp</string>
+    <string name="retry">retry</string>
+    <string name="config">Config is ready to load</string>
+    <string name="_continue">Continue</string>
+    <string name="cancel">Cancel</string>
+    <string name="downloading_config">Downloading config</string>
+    <string name="loading_config">Loading config</string>
+    <string name="launchingTasks">Launching tasks</string>
+    <string name="done">Done!</string>
+    <string name="task_done">done</string>
+    <string name="task_loading">loading</string>
+    <string name="finish">Finish</string>
+    <string name="main_screen">Main Screen</string>
+</resources>
